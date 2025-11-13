@@ -27,3 +27,9 @@ Cascade is a fast-paced arcade game built with **Python** and **Pygame**, where 
 - Add **power-ups** and new object types  
 - Include **two-player** option for playing with friends  
 - Implement **leaderboard** or **multiplayer** mode  
+
+## 📸 Gameplay
+
+![Cascade Gameplay](gameplay/gameplay.png)
+
+![Cascade Gameover](gameplay/gameover.png)
