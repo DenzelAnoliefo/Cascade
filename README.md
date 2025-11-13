@@ -33,3 +33,8 @@ Cascade is a fast-paced arcade game built with **Python** and **Pygame**, where 
 ![Cascade Gameplay](gameplay/gameplay.png)
 
 ![Cascade Gameover](gameplay/gameover.png)
+
+---
+
+## 💬 Author
+
