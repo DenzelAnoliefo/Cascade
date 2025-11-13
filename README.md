@@ -21,3 +21,10 @@ Cascade is a fast-paced arcade game built with **Python** and **Pygame**, where 
 - **Custom game loop**, scoring, and object generation.
 
 ---
+
+## 🧠 Future Improvements
+
+- Add **power-ups** and new object types  
+- Include **sound effects and music** for immersion  
+- Implement **leaderboard** or **multiplayer** mode  
+- Add **difficulty scaling** over time
