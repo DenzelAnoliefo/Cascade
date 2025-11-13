@@ -2,6 +2,8 @@
 
 Cascade is a fast-paced arcade game built with **Python** and **Pygame**, where players react quickly to falling elements on the screen. It combines smooth animations, dynamic scoring, and minimal design to create an addictive, replayable experience.
 
+Please feel free to download the repo and try out the game!
+
 ---
 
 ## 🚀 Features
@@ -36,5 +38,6 @@ Cascade is a fast-paced arcade game built with **Python** and **Pygame**, where 
 
 ---
 
-## 💬 Author
+## 💬 Created By
 
+**Denzel Anoliefo** – [GitHub](https://github.com/DenzelAnoliefo)
