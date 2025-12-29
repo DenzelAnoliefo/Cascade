@@ -3,7 +3,8 @@
 Cascade is a fast-paced arcade game built with **Python** and **Pygame**, where players react quickly to falling elements on the screen. It combines smooth animations, dynamic scoring, and minimal design to create an addictive, replayable experience.
 
 > [!IMPORTANT]
-> The game is not available on the web or in the app store. To play the game, please fork and clone this repo to your local machine, then run the cascade.py file.
+> To play the game, please fork and clone this repo to your local machine, then run the game.py file inside the Cascade directory.
+> The game is not available on the web or in the app store. 
 
 ---
 
